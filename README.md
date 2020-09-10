@@ -1,8 +1,9 @@
 # Generative Neural Network for Music Composition Using Variational Autoencoder Architecture
-A Thesis By William Karunia (001201600001)
-------
+### A Thesis By William Karunia (001201600001)
 
-This is a python GUI along with a pre-trained Autoencoder model [trained using this code](https://colab.research.google.com/drive/1LWERpMD2wCbbixl2Ni27XPtp0wg5n0-9?authuser=2) intended to be used by music composers in order to generate prompts to be used as ideas or starting points music compositions.
+This is a python GUI along with a pre-trained Autoencoder model [trained using this code](https://colab.research.google.com/drive/1LWERpMD2wCbbixl2Ni27XPtp0wg5n0-9?usp=sharing) intended to be used by music composers in order to generate prompts to be used as ideas or starting points music compositions.
+
+![GUI Display](https://imgur.com/ikEzAv9)
 
 *Requirements*
 
@@ -16,4 +17,4 @@ The packages required for the application to run:
 6. [pyaudio](https://pypi.org/project/PyAudio/)
 7. [midiutil](https://pypi.org/project/MIDIUtil/)
 
-It is recommended that user uses a virtual environment when installing the packages and attempting to run the python script. 
+It is recommended that user uses a [virtual environment](https://virtualenv.pypa.io/en/latest/) when installing the packages and attempting to run the python script. 
