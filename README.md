@@ -18,3 +18,9 @@ The packages required for the application to run:
 7. [midiutil](https://pypi.org/project/MIDIUtil/)
 
 It is recommended that user uses a [virtual environment](https://virtualenv.pypa.io/en/latest/) when installing the packages and attempting to run the python script. 
+
+## Running Instructions:
+1. Make sure you have python 3.5 or later installed in your system by typing 'python --version' on your terminal or command prompt.
+2. If using virtual environment, make sure to activate the virtual environment by typing 'virtualenv **_your virtual environment path_**' and activating it by running the activation script '**_your virtual environment path_**/scripts/activate'.
+3. install all the necessary packages listed above.
+4. on completion, type 'python **_the application directory_**/init.py'
