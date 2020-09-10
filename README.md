@@ -3,7 +3,7 @@
 
 This is a python GUI along with a pre-trained Autoencoder model [trained using this code](https://colab.research.google.com/drive/1LWERpMD2wCbbixl2Ni27XPtp0wg5n0-9?usp=sharing) intended to be used by music composers in order to generate prompts to be used as ideas or starting points music compositions.
 
-![GUI Display](https://imgur.com/ikEzAv9)
+![GUI Display](https://i.imgur.com/ikEzAv9.jpg)
 
 *Requirements*
 
