@@ -27,4 +27,4 @@ The application should open and reveal as such:
 ![GUI Display](https://i.imgur.com/ikEzAv9.jpg)
 
 1. To generate a new set of notes drag your cursor around the upper left corner box. The yellow dot should move to your cursor location. The yellow dot represents the position of the 2d vector within the latent space.
-2. Once generated Press the space bar to play the composition.
+2. Once generated, press the space bar to play the composition.
